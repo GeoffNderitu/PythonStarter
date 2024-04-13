@@ -5,4 +5,5 @@
 # print("His name is",patient_f_name,"He is",age,"He is a",patient_type)
 
 # Input Values
-input("What is your name?")
+name = input("What is your name?")
+print("Hello " + name)
