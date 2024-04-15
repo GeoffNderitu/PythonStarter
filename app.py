@@ -20,7 +20,14 @@
 # print("Sum:", Sum)
 
 # Float
-first_num = float(input("First: "))
-second_num = float(input("Second: "))
-Sum = first_num + second_num
-print("Sum:", Sum)
+# first_num = float(input("First: "))
+# second_num = float(input("Second: "))
+# Sum = first_num + second_num
+# print("Sum:", Sum)
+
+# Strings
+soma = "Learn Python with me"
+print(soma.upper())
+print(soma.find('h'))
+print(soma.find('me'))
+print("with" in soma)
