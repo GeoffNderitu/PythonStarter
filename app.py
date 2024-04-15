@@ -39,7 +39,16 @@
 # print(x)
 
 # Operator Precedence
-x = 10 + 3 * 2
+# x = 10 + 3 * 2
 # Here the once in parentheses will be executed first
-x = (10 + 3) * 2
+# x = (10 + 3) * 2
+# print(x)
+
+# Comparison operators
+x = 3 < 2
+x = 3 > 2
+x = 3 == 2
+x = 3 <= 2
+x = 3 >= 2
+x = 3!= 2
 print(x)
