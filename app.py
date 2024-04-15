@@ -45,10 +45,15 @@
 # print(x)
 
 # Comparison operators
-x = 3 < 2
-x = 3 > 2
-x = 3 == 2
-x = 3 <= 2
-x = 3 >= 2
-x = 3!= 2
-print(x)
+# x = 3 < 2
+# x = 3 > 2
+# x = 3 == 2
+# x = 3 <= 2
+# x = 3 >= 2
+# x = 3!= 2
+# print(x)
+
+# Logical Operators
+# "and" which makes sure both conditions are tur
+# "or" at least one value has to be true
+# "not" this one inverses any value we give
