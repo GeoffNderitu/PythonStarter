@@ -103,5 +103,9 @@
 #     i = i + 1
 
 # The range() function
-for num in range(5, 10, 2):
-    print(num)
+# for num in range(5, 10, 2):
+#     print(num)
+
+# Tuples
+# These are immutable and aid in making sure that nobody can accidentally change certain values
+nambari = (1, 2, 3)
