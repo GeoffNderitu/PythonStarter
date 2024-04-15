@@ -71,12 +71,18 @@
 #     print("Brrrr! It's Cold!")
 
 # Exercise
-weight = float(input("Enter your weight: "))
-unit = input(" Enter (K)g or (L)bs: ")
-if unit.upper() == "K":
-    uzito = weight / 0.45
-    print("Weight in Lbs: ", str(uzito))
-else:
-    uzito = weight * 0.45
-    print("Weight in Kgs: ", str(uzito))
+# weight = float(input("Enter your weight: "))
+# unit = input(" Enter (K)g or (L)bs: ")
+# if unit.upper() == "K":
+#     uzito = weight / 0.45
+#     print("Weight in Lbs: ", str(uzito))
+# else:
+#     uzito = weight * 0.45
+#     print("Weight in Kgs: ", str(uzito))
+
+# while loop
+i= 1
+while i <= 5:
+    print(i)
+    i = i + 1
 
