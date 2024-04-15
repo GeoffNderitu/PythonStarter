@@ -26,8 +26,14 @@
 # print("Sum:", Sum)
 
 # Strings
-soma = "Learn Python with me"
-print(soma.upper())
-print(soma.find('h'))
-print(soma.find('me'))
-print("with" in soma)
+# soma = "Learn Python with me"
+# print(soma.upper())
+# print(soma.find('h'))
+# print(soma.find('me'))
+# print("with" in soma)
+
+# Arithmetic operations
+x = 10
+# x = x + 4
+x +=3
+print(x)
