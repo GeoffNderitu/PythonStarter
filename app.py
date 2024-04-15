@@ -45,8 +45,7 @@
 # print(x)
 
 # Comparison operators
-# x = 3 < 2
-# x = 3 > 2
+# x = 3 < 2 x = 3 > 2
 # x = 3 == 2
 # x = 3 <= 2
 # x = 3 >= 2
@@ -56,4 +55,17 @@
 # Logical Operators
 # "and" which makes sure both conditions are tur
 # "or" at least one value has to be true
-# "not" this one inverses any value we give
+# "not" this inverses any value we give
+
+# If Statements
+temp = input("Enter today's temperature")
+
+if int(temp) > 35:
+    print("It's rather hot today")
+    print("Remember to take lots of water!")
+elif int(temp) > 25:
+    print("Quite wonderful weather we're having!")
+elif int(temp) > 12:
+    print("Grab a jacket, it might be cold outside!")
+else:
+    print("Brrrr! It's Cold!")
