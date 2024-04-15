@@ -9,6 +9,14 @@
 # print("Hello " + name)
 
 # Type conversion
-birth_year = input("Enter birth year: ")
-age = 2024 - int(birth_year)
-print(age)
+# birth_year = input("Enter birth year: ")
+# age = 2024 - int(birth_year)
+# print(age)
+
+# Int
+first_num = input("First: ")
+second_num = input("Second: ")
+Sum = int(first_num) + int(second_num)
+print("Sum:", Sum)
+
+# Float
