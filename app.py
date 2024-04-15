@@ -14,9 +14,13 @@
 # print(age)
 
 # Int
-first_num = input("First: ")
-second_num = input("Second: ")
-Sum = int(first_num) + int(second_num)
-print("Sum:", Sum)
+# first_num = input("First: ")
+# second_num = input("Second: ")
+# Sum = int(first_num) + int(second_num)
+# print("Sum:", Sum)
 
 # Float
+first_num = float(input("First: "))
+second_num = float(input("Second: "))
+Sum = first_num + second_num
+print("Sum:", Sum)
