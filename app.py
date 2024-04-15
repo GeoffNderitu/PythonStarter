@@ -33,7 +33,13 @@
 # print("with" in soma)
 
 # Arithmetic operations
-x = 10
-# x = x + 4
-x +=3
+# x = 10
+# # x = x + 4
+# x +=3
+# print(x)
+
+# Operator Precedence
+x = 10 + 3 * 2
+# Here the once in parentheses will be executed first
+x = (10 + 3) * 2
 print(x)
