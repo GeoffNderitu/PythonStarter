@@ -86,3 +86,7 @@
 #     print(i)
 #     i = i + 1
 
+# Lists
+fruits = ["Oranges", "Apples", "Pineapples", "Bananas", "Peaches"]
+fruits[1] = "Apple"
+print(fruits[0:3])
