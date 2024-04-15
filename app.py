@@ -87,6 +87,17 @@
 #     i = i + 1
 
 # Lists
-fruits = ["Oranges", "Apples", "Pineapples", "Bananas", "Peaches"]
-fruits[1] = "Apple"
-print(fruits[0:3])
+# fruits = ["Oranges", "Apples", "Pineapples", "Bananas", "Peaches"]
+# fruits[1] = "Apple"
+# print(fruits[0:3])
+
+# For loops
+# nambari = [1, 2, 3, 4, 5]
+# for item in nambari:
+#     print(item)
+#
+# i = 0
+#
+# while i < len(nambari) :
+#     print(nambari[i])
+#     i = i + 1
