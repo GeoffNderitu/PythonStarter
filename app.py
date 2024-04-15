@@ -101,3 +101,7 @@
 # while i < len(nambari) :
 #     print(nambari[i])
 #     i = i + 1
+
+# The range() function
+for num in range(5, 10, 2):
+    print(num)
